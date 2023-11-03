@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Your Aesthetic Game Website</title>
+    <title>Dungeon Survival</title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <style>
         /* Additional inline CSS for demonstration purposes */
@@ -31,7 +31,7 @@
 <body>
     <header>
         <img src="your-image.jpg" alt="Website Logo">
-        <h1>Your Aesthetic Game Website</h1>
+        <h1>Dungeon Survival</h1>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
