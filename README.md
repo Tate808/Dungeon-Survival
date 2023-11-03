@@ -60,7 +60,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2023 Your Game Website. All rights reserved.</p>
+        <p>&copy; 2023 Dungeon Games. All rights reserved.</p>
     </footer>
 </body>
 </html>
