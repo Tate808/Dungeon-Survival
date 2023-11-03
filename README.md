@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Dungeon Survival</title>
+    <title>Your Aesthetic Game Website</title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <style>
         /* Additional inline CSS for demonstration purposes */
@@ -30,7 +30,8 @@
 </head>
 <body>
     <header>
-        <h1>Dungeon Survival</h1>
+        <img src="your-image.jpg" alt="Website Logo">
+        <h1>Your Aesthetic Game Website</h1>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
